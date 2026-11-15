@@ -9,3 +9,4 @@
 | 3 | Асинхронность, FastAPI | [hw3](hw3/) |
 | 4 | FastAPI и Pydantic: сервис обращений абонентов с валидацией | [hw4](hw4/) |
 | 6 | SQLAlchemy: модель студентов, загрузка из CSV и выборки | [hw6](hw6/) |
+| 7 | CRUD на FastAPI + SQLAlchemy поверх ДЗ 6 | [hw7](hw7/) |
